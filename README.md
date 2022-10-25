@@ -1,6 +1,6 @@
 # BRRF
 
-This project was made during an object-oriented programming course. The application allows the user to find train connections between two stations in the local database. Then the user was able to generate a pdf document with the matching connections.
+This project was made during an object-oriented programming course. The application allows the user to find train connections between two stations in the local database. Then the user can generate a pdf document with the matching connections.
 
 ## Authors
 
